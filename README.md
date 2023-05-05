@@ -1,2 +1,2 @@
 # JapplesWP
-A clean, custom WP theme using Bootstrap and AOS.
+A clean, custom WP theme using Bootstrap.
